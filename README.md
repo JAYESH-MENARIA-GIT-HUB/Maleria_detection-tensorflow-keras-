@@ -1,6 +1,6 @@
 Malaria  Image Classifier Project
 
-In this project, I have created a deep learning network to classify Dog vs Cat per the labels provided. This project was established by Udemy and performed within Google-colab and for dataset i am attaching link --https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb/view . The project also utilizes transfer learning to import already trained classifiers from the PyTorch package while modifying the classifier attribute of each package.
+In this project, I have created a deep learning network to classify malaria per the labels provided. This project was established by Udemy and performed within Google-colab and for dataset i am attaching link --https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb/view . The project also utilizes transfer learning to import already trained classifiers from the PyTorch package while modifying the classifier attribute of each package.
 
 Project Breakdown
 Creating the Datasets: Utilizing the images provided by link, the first part of the project looks to import the data while applying proper transforms and segmenting them into respective training, validation, and testing datasets.
